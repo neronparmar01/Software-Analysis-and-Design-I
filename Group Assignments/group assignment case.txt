@@ -1,0 +1,39 @@
+Case 1 : Create the client
+
+- creating the client 
+- saving the data
+- fetching the dta
+
+
+Case 2 : Payments
+
+-fetch the client dta
+- payments
+- Sub methods : 
+* services : 
+	* just cleaning 
+	* hair cut
+	* trim 
+	* nails
+	* check skin'
+	* ears
+- payment methid:
+	* cash
+	* debit
+	* cheque
+-payment details 
+-save 
+-tips
+
+
+Case 3 : Reciepts
+
+- fetch payment details
+- create the reciept
+- enter details - taxes - amounts- total amounts
+- get details
+- type of the reciept
+* type : - reciept for the owner
+	   - recipet for the client 
+- tax reciept option - all taxes
+			   - individual taxes
